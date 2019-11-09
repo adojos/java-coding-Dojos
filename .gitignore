@@ -24,3 +24,6 @@ hs_err_pid*
 
 # Intellij IDE Files
 .idea
+
+# output classes
+.output
