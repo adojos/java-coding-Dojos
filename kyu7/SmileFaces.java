@@ -27,8 +27,6 @@ public class SmileFaces {
 
         if (!arr.isEmpty()) {
             int iCount = 0;
-/*            List<String> tempList = new ArrayList<>();
-            tempList.addAll(arr);*/
 
             for (String tempStr : arr) {
                 if ((tempStr.startsWith(":") || tempStr.startsWith(";")) && (tempStr.endsWith(")") || tempStr.endsWith("D"))) {
