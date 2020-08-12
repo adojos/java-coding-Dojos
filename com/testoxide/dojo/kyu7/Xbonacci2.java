@@ -1,4 +1,4 @@
-package kyu7;
+package com.testoxide.dojo.kyu7;
 
 import java.util.Arrays;
 

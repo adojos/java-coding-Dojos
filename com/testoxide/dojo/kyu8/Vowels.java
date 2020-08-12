@@ -1,4 +1,4 @@
-package kyu8;
+package com.testoxide.dojo.kyu8;
 
 public class Vowels {
     public static int getCount(String str) {
