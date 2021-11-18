@@ -32,7 +32,7 @@ public class ReversingWords {
     }
 
     public static void main(String args[]) {
-        System.out.println(ReversingWords.reverseWords("This is a example"));
+        System.out.println(ReversingWords.reverseWords("This is an example"));
     }
 
 }
