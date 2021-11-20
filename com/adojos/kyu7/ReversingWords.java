@@ -3,7 +3,7 @@ Examples
 "This is an example!" ==> "sihT si na !elpmaxe"
 "double  spaces"      ==> "elbuod  secaps"*/
 
-package com.testoxide.dojo.kyu7;
+package com.adojos.kyu7;
 
 public class ReversingWords {
 

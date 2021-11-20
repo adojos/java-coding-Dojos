@@ -1,4 +1,4 @@
-package com.testoxide.dojo.kyu7;
+package com.adojos.kyu7;
 
 import java.util.ArrayList;
 import java.util.Arrays;
